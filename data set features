@@ -1,0 +1,68 @@
+Info about Data Set 
+
+Features: 
+Gender
+- type: categorical
+- missing values: no 
+Age
+- type: continuous
+- missing values: no
+Height
+- type: continuous
+- missing values: no
+Weight
+- type: continuous
+- missing values: no
+- Description: 
+family_history_with_overweight
+- type: binary
+- missing values: no
+- Description: has family membered suffered or is suffering from being overweight?
+FAVC
+- type: binary
+- missing values: no
+- Description: do you eat high caloric food frequently?
+FCVC
+- type: integer
+- missing values: no
+- Description: do you usually eat vegetables in your meals?
+NCP
+- type: continuous
+- missing values: no
+- Description:  how many main meals do you have daily?
+CAEC
+- type: categorical
+- missing values: no
+- Description: do you eat any food between meals? (i.e. snacking)
+SMOKE
+- type: binary
+- missing values: no 
+- Description: do you smoke?
+CH2O
+- type: continuous
+- missing values: no
+- Description: how much water do you drink daily?
+SCC
+- type: binary
+- missing values: no
+- Description: do you monitor the calories you eat daily?
+FAF
+- type: continuous
+- missing values: no
+- Description: how often do you have physical activity 
+TUE
+- type: integer
+- missing values: no
+- Description: how often do you spend on technological devices? 
+CALC
+- type: categorical
+- missing values: no
+- Description: how often do you drink alcohol
+MTRANS
+- type: categorical
+- missing values: no
+- Description: whcih transportation do you usually use?
+NObeyesdad
+- type: categorical
+- missing values: no
+- Description: obesity level
