@@ -1,5 +1,9 @@
 Info about Data Set 
 
+Question: Do healthy behaviors such as physical activity, diet, and calorie monitoring reduce the likelihood of obesity, even among individuals who smoke?
+
+Hypothesis: Individuals who engage in healthy behaviors such as regular physical activity, higher vegetable consumption, and calorie monitoring will have lower odds of obesity, even if they smoke.
+ 
 Features: 
 Gender
 - type: categorical
